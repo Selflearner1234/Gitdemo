@@ -6,6 +6,17 @@ public class KeyBoardStroke {
 		
 		 System.out.println("Hello world");
 		 System.out.println("Hello universe");
+		 
+		 
+		 
+		 System.out.println("Hello world");
+		 System.out.println("Hello universe");
+		 
+		 
+		 System.out.println("Hello world");
+		 System.out.println("Hello universe");
+	
+	}
 	}
 
-}
+
