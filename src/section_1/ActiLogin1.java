@@ -3,7 +3,7 @@ package section_1;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class ActiLogin {
+public class ActiLogin1 {
 
 	public static void main(String[] args) {
 		ChromeDriver driver = new ChromeDriver();
