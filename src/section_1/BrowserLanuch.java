@@ -14,7 +14,9 @@ public class BrowserLanuch {
 		driver.manage().window().maximize();
 		driver.get("https://www.youtube.com/watch?v=Xr8p17TKPc4&list=PLyTBh5FxMov7a6E0H9W_9I6SUW0JDkerI");
 	
-		
+		driver.manage().window().maximize();
+		driver.get("https://www.youtube.com/watch?v=Xr8p17TKPc4&list=PLyTBh5FxMov7a6E0H9W_9I6SUW0JDkerI");
+	
 		
 	}
 
